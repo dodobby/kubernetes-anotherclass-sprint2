@@ -2,7 +2,7 @@
 replicaCount: 1
 
 image:
-  repository: 1pro/api-tester
+  repository: alchdliodd/api-tester
   pullPolicy: Always
   tag: 1.1.1-250604.171111
 
